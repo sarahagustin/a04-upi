@@ -2,3 +2,12 @@ body {
   margin: 0;
   font-family: "Ubuntu";
 }  
+.header { 
+    Background-color : #2B6777;
+    Color : #F2F2F2;
+}
+.footer { 
+    Background-color : #2B6777;
+    Color : #F2F2F2;
+    text-align: center;
+}
